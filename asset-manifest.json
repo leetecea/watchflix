@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/watchflix/static/js/main.1c9c6b03.js",
+    "static/media/wallpaper.jpg": "/watchflix/static/media/wallpaper.ee4120307d5995460240.jpg",
+    "index.html": "/watchflix/index.html",
+    "main.1c9c6b03.js.map": "/watchflix/static/js/main.1c9c6b03.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1c9c6b03.js"
+  ]
+}
